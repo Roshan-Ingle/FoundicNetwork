@@ -1,0 +1,15 @@
+{
+  "name": "Foundic Network",
+  "short_name": "Foundic Network",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#141218",
+  "theme_color": "#D0BCFF",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
